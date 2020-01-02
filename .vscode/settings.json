@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/Users/eros/Programmi/miniconda3/envs/python36/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.autoComplete.extraPaths": [
+        "/Users/eros/Programmi/miniconda3/virtual-site-packages"
+    ],
+}
